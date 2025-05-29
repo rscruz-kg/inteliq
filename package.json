@@ -117,5 +117,8 @@
                 }
             ]
         ]
+    },
+    "dependencies": {
+        "puppeteer": "^24.9.0"
     }
 }
